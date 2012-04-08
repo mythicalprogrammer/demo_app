@@ -18,6 +18,7 @@ group :assets do
   gem 'uglifier', '1.2.3'
 end
 
+gem 'therubyracer'
 gem 'jquery-rails'
 
 group :production do
